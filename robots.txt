@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://salahu01.github.io/abu-ward
+Sitemap: https://salahu01.github.io/abu-ward/sitemap.xml
